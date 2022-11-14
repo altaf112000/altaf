@@ -1,0 +1,2 @@
+# altaf
+redhat class practical
